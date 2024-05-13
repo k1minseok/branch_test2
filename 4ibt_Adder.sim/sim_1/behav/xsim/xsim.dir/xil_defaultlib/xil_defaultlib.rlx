@@ -1,0 +1,7 @@
+0.7
+2020.2
+Feb  9 2024
+00:36:40
+C:/1_Study/VerilogHDL/Vivado/4ibt_Adder/4ibt_Adder.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,uvm,,,,,,
+C:/1_Study/VerilogHDL/Vivado/4ibt_Adder/4ibt_Adder.srcs/sim_1/new/tb_adder_sv.sv,1715227935,systemVerilog,,,,$unit_tb_adder_sv_sv;tb_adder_sv,,uvm,,,,,,
+C:/1_Study/VerilogHDL/Vivado/4ibt_Adder/4ibt_Adder.srcs/sources_1/new/4bitAdder.v,1715227468,verilog,,C:/1_Study/VerilogHDL/Vivado/4ibt_Adder/4ibt_Adder.srcs/sim_1/new/tb_4bitAdder.v,,Adder;fullAdder;halfAdder,,uvm,,,,,,
