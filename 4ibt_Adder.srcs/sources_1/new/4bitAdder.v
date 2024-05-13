@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 
 module Adder (
-    input [3:0] a,
+    input [3:0] a,asdasdgi
     input [3:0] b,
     input cin,
     output [3:0] sum,
